@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'injectable/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'injectable'
+  spec.name          = 'maglev-injectable'
   spec.version       = Injectable::VERSION
   spec.authors       = %w[Papipo iovis jantequera amrocco rewritten]
   spec.email         = %w[dev@rubiconmd.com]

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    injectable (2.1.1)
+    maglev-injectable (2.1.1)
 
 GEM
   remote: https://rubygems.org/
@@ -36,7 +36,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.0)
-  injectable!
+  maglev-injectable!
   pry-byebug
   rake (~> 13.0)
   rspec (~> 3.0)
